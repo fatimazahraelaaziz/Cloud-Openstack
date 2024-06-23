@@ -15,7 +15,7 @@ Configuration des dépendances et des pré-requis nécessaires avant d'installer
 
 
 ### III. Configuration de Keystone 
-Keystone est le service d'identité d'OpenStack. Cette première partie de la configuration de Keystone inclut l'installation et la configuration de base.
+Keystone est le service d'identité d'OpenStack. Cette étape de la configuration de Keystone inclut l'installation et la configuration de base.
 
 
 ### V. Configuration de Glance
@@ -27,10 +27,10 @@ Cette étape implique l'ajout et la gestion des images de la machine virtuelle d
 
 
 ### VII. Configuration de Nova 
-Nova est le service de calcul d'OpenStack. Cette première étape de la configuration de Nova inclut l'installation et la configuration de base.
+Nova est le service de calcul d'OpenStack. Cette étape de la configuration de Nova inclut l'installation et la configuration de base.
 
 ### X. Configuration de Neutron 
-Neutron est le service de mise en réseau d'OpenStack. Cette première partie de la configuration de Neutron couvre l'installation et la configuration de base.
+Neutron est le service de mise en réseau d'OpenStack. Cette étape de la configuration de Neutron couvre l'installation et la configuration de base.
 
 
 ### XIII. Ajout des Utilisateurs OpenStack
@@ -45,7 +45,7 @@ Création et déploiement des instances de machines virtuelles. Cette étape cou
 Horizon est le tableau de bord web d'OpenStack. Cette étape couvre l'installation et la configuration de Horizon pour permettre une gestion graphique des services OpenStack.
 
 
-## Annexes et Documentation
+## Documentation
 
 Pour plus de détails sur chaque étape, veuillez consulter la documentation associée ci-dessus.
 
