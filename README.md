@@ -14,7 +14,7 @@ Cette étape consiste à préparer l'environnement virtuel nécessaire pour l'in
 Configuration des dépendances et des pré-requis nécessaires avant d'installer OpenStack. Cela inclut l'installation de logiciels de base, la configuration des réseaux et d'autres configurations système.
 
 
-### III. Configuration de Keystone #1
+### III. Configuration de Keystone 
 Keystone est le service d'identité d'OpenStack. Cette première partie de la configuration de Keystone inclut l'installation et la configuration de base.
 
 
@@ -26,10 +26,10 @@ Glance est le service de gestion des images d'OpenStack. Cette étape couvre l'i
 Cette étape implique l'ajout et la gestion des images de la machine virtuelle dans Glance. Les images sont des modèles de systèmes d'exploitation que vous pouvez utiliser pour lancer des instances.
 
 
-### VII. Configuration de Nova #1
+### VII. Configuration de Nova 
 Nova est le service de calcul d'OpenStack. Cette première étape de la configuration de Nova inclut l'installation et la configuration de base.
 
-### X. Configuration de Neutron #1
+### X. Configuration de Neutron 
 Neutron est le service de mise en réseau d'OpenStack. Cette première partie de la configuration de Neutron couvre l'installation et la configuration de base.
 
 
